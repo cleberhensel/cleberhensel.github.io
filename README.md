@@ -25,7 +25,9 @@ Analise de requisitos junto aos clientes.
 Prototipação com Raspberry.
 
 Tecnologias:
+
     Player: NodeJS, Electron, typescript, html, css
+
     CMS: PHP(cms com Laravel) e react.
 
 
@@ -34,7 +36,9 @@ Projeto de CRM de vendas (pipeline + automação) com foco em negócios de tecno
 Forte uso de PHP com laravel, VueJS, html e css (bootstrap + tema).
 
 Tecnologias:
+    
     Front-end: HTML, CSS, VueJS.
+    
     Back-end: PHP, NodeJS, MySQL, MongoDB
 
 
@@ -44,7 +48,9 @@ Tanto para analise de requisitos quanto negociação, planejamento, modelagem do
 Atedemos demandas de agencias. Desenvolvimento de serviços e produtos normalmente para cliente final.
 
 Tecnologias:
+    
     Front-end: HTML, CSS, JS/Typescript, Angular2+, Material, Bootstrap.
+    
     Back-end: NodeJS, PHP, C#
 
 ## Outras
