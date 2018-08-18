@@ -44,8 +44,8 @@ Tecnologias:
 
 
 ## Sócio e Desenvolvedor Backend na Simstim - mar 2013 - dez 2016
-Além do papel de backend, tive a oportunidade de atuar como atendimento ao clientes. 
-Tanto para analise de requisitos quanto negociação, planejamento, modelagem do negócios.
+Além do papel de backend, tive a oportunidade de atuar como atendimento aos clientes. 
+Tanto para analise de requisitos quanto negociação, planejamento, modelagem de negócios.
 Atedemos demandas de agencias. Desenvolvimento de serviços e produtos normalmente para cliente final.
 
 Tecnologias:
