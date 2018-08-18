@@ -1,4 +1,3 @@
-# Cleber Hensel
 Sou desenvolvedor javascript (front-end/back-end). Atualmente trabalho na CWI/Agibank atuando principalmente no front-end do CRM de Atendimento. E Também construindo micro-serviços em Java e .Net .
 
 Trabalhei muitos anos em/com agências de publicidade. Normalmente como Backend PHP e NodeJS. Montando sites, eCommerces, campanhas, frameworks proprietários, CMS, APIs, Crawlers.
