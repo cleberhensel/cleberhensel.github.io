@@ -1,20 +1,15 @@
-# cleberhensel.github.io
+## Cleber Hensel
+Sou desenvolvedor javascript (front-end/back-end). Atualmente trabalho na CWI/Agibank atuando principalmente no front-end do CRM de Atendimento. E Também construindo micro-serviços em Java e .Net .
 
-# Cleber Hensel
-Sou desevolvedor javascript (front-end/back-end). Atualmente trabalho na CWI/Agibank como desenvolvedor fullstack. 
-Atuando principalmente no front-end do CRM de Atendimento em Angular4+ e Material. E Também construindo micro-serviços em Java e C#.
+Trabalhei muitos anos em/com agências de publicidade. Normalmente como Backend PHP e NodeJS. Montando sites, eCommerces, campanhas, frameworks proprietários, CMS, APIs, Crawlers.
 
-Trabalhei muitos anos em/com Agencias de publicidade. Montando sites, eCommerces, campanhas e lançamentos.
-Normalmente como Backend PHP e NodeJS. Desenvolvendo frameworks proprietários, CMS, APIs, Crawlers.
-
-Tive empresa por quase 4 anos. Onde tive muita experiencia de atendimento e relacionamento com o cliente. Consequentemente treinei minhas skills de analista de negócios/sistemas, gerente de projetos e "liderança" técnica.
-Também pude testar, aprender e evoluir outros conhecimentos técnicos como javascript/typescript e DevOps. Atendemos demandas diversar de campanhas publicitárias, lançamento de clipe até um Crawler que se alimentava de dados abertos do DataSUS.
+Tive empresa por quase 4 anos. Onde tive muita experiência de atendimento e relacionamento com o cliente. Consequentemente treinei minhas skills de analista de negócios/sistemas, gerente de projetos e "liderança" técnica.
+Também pude testar, aprender e evoluir outros conhecimentos como javascript/typescript e DevOps. Atendemos demandas diversas de campanhas publicitárias, lançamento de clipe e até um Crawler que se alimentava de dados abertos.
 
 Tenho buscado me colocar como Dev Javascript. Mas não acredito que o nome realmente defina.
 Prefiro estar envolvido em projetos interessantes e que tenham algum sentido no mundo.
 
 Tenho estudado Spring, .Net core e Redux ;)
-
 
 # Fullstack Outsourcing na CWI Software/Agibank - Jun 2018 - Atual
 Na Agibank estamos imersos na cultura organizacional do Spotify. Divididos em squads autonomas com capacidade para resolver todas as etapas do ciclo de vida do desenvolvimento: concepção, CI, CD, DevOps e suporte.
@@ -51,11 +46,10 @@ Atedemos demandas de agencias. Desenvolvimento de serviços e produtos normalmen
 
 Tecnologias:
     Front-end: HTML, CSS, JS/Typescript, Angular2+, Material, Bootstrap.
-    Back-end: NodeJS, PHP, C#.
-    outros: AWS, Git, ffmpeg 
+    Back-end: NodeJS, PHP, C#
 
-Possuo várias experiencias (durante vários anos) anteriores. Principalmente como dev PHP e NodeJS. Em agencias de publicidade.
-Onde as demandas eram sites(html, css, jquery), CMS(wordpress e proprietário), campanhas curtas e sazionais.
+Possuo várias outras experiencias (durante vários anos) anteriores. Principalmente como dev PHP e NodeJS em agencias de publicidade.
+Onde as demandas eram sites(html, css, jquery), CMS(wordpress e proprietários), campanhas curtas e sazionais.
 Também desenvolvi vários apps para facebook e integrações com redes sociais diversas(twitter, foursquare, google+ e etc...).
 Por alguns anos trabalhei com gestão de CPD em algumas empresas. Utilizando servers Linux e Win. Configurando redes, ad/samba, firewall e outros.
 Também usando a AWS e seus diversos serviços como: EC2, RDS, S3, Route53 para serviços web.
