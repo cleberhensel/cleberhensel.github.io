@@ -10,7 +10,8 @@ Prefiro estar envolvido em projetos interessantes e que tenham algum sentido no 
 
 Tenho estudado Spring, .Net core e Redux ;)
 
-## Fullstack Outsourcing na CWI Software/Agibank - Jun 2018 - Atual
+## Fullstack Javascript - Jun 2018 - Atual
+### CWI Software - Outsourcing na Agibank
 Na Agibank estamos imersos na cultura organizacional do Spotify. Divididos em squads autonomas com capacidade para resolver todas as etapas do ciclo de vida do desenvolvimento: concepção, CI, CD, DevOps e suporte.
 Seguindo as cerimonias do scrum e gerenciando as etapas do desenvolvimento com o TFS, desde a estimativa durante a planning até retrospectiva.
 Utilizamos Java 8 com Spring e .Net core para os micro-serviços.
@@ -20,7 +21,8 @@ Tecnologias:
        
        angular4+, typescript, Java, sprint, .Net core, jenkins, GitLab, MongoDB
 
-## Full-stack Developer no Bananas Music Branding - jun 2017 - mai 2018
+## Fullstack Developer - jun 2017 - mai 2018
+### Bananas Music Branding
 Desenvolvimento do Player de Musica para PDV.
 Analise de requisitos junto aos clientes.
 Prototipação com Raspberry.
@@ -32,7 +34,8 @@ Tecnologias:
     CMS: PHP(cms com Laravel) e react.
 
 
-## Desenvolvedor FullStack no PipeRun - dez de 2016 - jul 2017
+## FullStack Developer - dez de 2016 - jul 2017
+### PipeRun
 Projeto de CRM de vendas (pipeline + automação) com foco em negócios de tecnologia.
 Forte uso de PHP com laravel, VueJS, HTML e CSS (bootstrap + tema).
 
@@ -43,7 +46,8 @@ Tecnologias:
     Back-end: PHP, NodeJS, MySQL, MongoDB
 
 
-## Sócio e Desenvolvedor Backend na Simstim - mar 2013 - dez 2016
+## Sócio e Desenvolvedor Backend - mar 2013 - dez 2016
+### Simstim
 Além do papel de backend, tive a oportunidade de atuar como atendimento aos clientes. 
 Tanto para analise de requisitos quanto negociação, planejamento, modelagem de negócios.
 Atedemos demandas de agencias. Desenvolvimento de serviços e produtos normalmente para cliente final.
