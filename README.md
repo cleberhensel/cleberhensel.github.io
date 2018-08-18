@@ -17,7 +17,8 @@ Utilizamos Java 8 com Spring e .Net core para os micro-serviços.
 No front Angular4+ e Material na construção do CRM de atendimento.
 
 Tecnologias:
-    angular4+, typescript, Java, sprint, .Net core, jenkins, GitLab, MongoDB
+       
+       angular4+, typescript, Java, sprint, .Net core, jenkins, GitLab, MongoDB
 
 ## Full-stack Developer no Bananas Music Branding - jun 2017 - mai 2018
 Desenvolvimento do Player de Musica para PDV.
@@ -26,18 +27,18 @@ Prototipação com Raspberry.
 
 Tecnologias:
 
-    Player: NodeJS, Electron, typescript, html, css
+    Player: NodeJS, Electron, typescript, HTML, CSS
 
     CMS: PHP(cms com Laravel) e react.
 
 
 ## Desenvolvedor FullStack no PipeRun - dez de 2016 - jul 2017
 Projeto de CRM de vendas (pipeline + automação) com foco em negócios de tecnologia.
-Forte uso de PHP com laravel, VueJS, html e css (bootstrap + tema).
+Forte uso de PHP com laravel, VueJS, HTML e CSS (bootstrap + tema).
 
 Tecnologias:
     
-    Front-end: HTML, CSS, VueJS.
+    Front-end: VueJS, HTML, CSS,
     
     Back-end: PHP, NodeJS, MySQL, MongoDB
 
@@ -55,7 +56,7 @@ Tecnologias:
 
 ## Outras
 Possuo várias experiencias (durante vários anos) anteriores. Principalmente como dev PHP e NodeJS em agencias de publicidade.
-Onde as demandas eram sites(html, css, jquery), CMS(wordpress e proprietários), campanhas curtas e sazionais.
+Onde as demandas eram sites(HTML, CSS, jquery), CMS(wordpress e proprietários), campanhas curtas e sazionais.
 Também desenvolvi vários apps para facebook e integrações com redes sociais diversas(twitter, foursquare, google+ e etc...).
 Por alguns anos trabalhei com gestão de CPD em algumas empresas. Utilizando servers Linux e Win. Configurando redes, ad/samba, firewall e outros.
 Também usando a AWS e seus diversos serviços como: EC2, RDS, S3, Route53 para serviços web.
