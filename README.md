@@ -30,7 +30,7 @@ Tecnologias:
     CMS: PHP(cms com Laravel) e react.
 
 
-## Desenvolvedor FullStack no PipeRun dez de 2016 - jul 2017
+## Desenvolvedor FullStack no PipeRun - dez de 2016 - jul 2017
 Projeto de CRM de vendas (pipeline + automação) com foco em negócios de tecnologia.
 Forte uso de PHP com laravel, VueJS, html e css (bootstrap + tema).
 
@@ -39,7 +39,7 @@ Tecnologias:
     Back-end: PHP, NodeJS, MySQL, MongoDB
 
 
-## Sócio e Desenvolvedor Backend na Simstim mar 2013 - dez 2016
+## Sócio e Desenvolvedor Backend na Simstim - mar 2013 - dez 2016
 Além do papel de backend, tive a oportunidade de atuar como atendimento ao clientes. 
 Tanto para analise de requisitos quanto negociação, planejamento, modelagem do negócios.
 Atedemos demandas de agencias. Desenvolvimento de serviços e produtos normalmente para cliente final.
@@ -48,7 +48,8 @@ Tecnologias:
     Front-end: HTML, CSS, JS/Typescript, Angular2+, Material, Bootstrap.
     Back-end: NodeJS, PHP, C#
 
-Possuo várias outras experiencias (durante vários anos) anteriores. Principalmente como dev PHP e NodeJS em agencias de publicidade.
+## Outras
+Possuo várias experiencias (durante vários anos) anteriores. Principalmente como dev PHP e NodeJS em agencias de publicidade.
 Onde as demandas eram sites(html, css, jquery), CMS(wordpress e proprietários), campanhas curtas e sazionais.
 Também desenvolvi vários apps para facebook e integrações com redes sociais diversas(twitter, foursquare, google+ e etc...).
 Por alguns anos trabalhei com gestão de CPD em algumas empresas. Utilizando servers Linux e Win. Configurando redes, ad/samba, firewall e outros.
