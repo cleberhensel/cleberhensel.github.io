@@ -1,4 +1,4 @@
-## Cleber Hensel
+# Cleber Hensel
 Sou desenvolvedor javascript (front-end/back-end). Atualmente trabalho na CWI/Agibank atuando principalmente no front-end do CRM de Atendimento. E Também construindo micro-serviços em Java e .Net .
 
 Trabalhei muitos anos em/com agências de publicidade. Normalmente como Backend PHP e NodeJS. Montando sites, eCommerces, campanhas, frameworks proprietários, CMS, APIs, Crawlers.
@@ -11,7 +11,7 @@ Prefiro estar envolvido em projetos interessantes e que tenham algum sentido no 
 
 Tenho estudado Spring, .Net core e Redux ;)
 
-# Fullstack Outsourcing na CWI Software/Agibank - Jun 2018 - Atual
+## Fullstack Outsourcing na CWI Software/Agibank - Jun 2018 - Atual
 Na Agibank estamos imersos na cultura organizacional do Spotify. Divididos em squads autonomas com capacidade para resolver todas as etapas do ciclo de vida do desenvolvimento: concepção, CI, CD, DevOps e suporte.
 Seguindo as cerimonias do scrum e gerenciando as etapas do desenvolvimento com o TFS, desde a estimativa durante a planning até retrospectiva.
 Utilizamos Java 8 com Spring e .Net core para os micro-serviços.
@@ -20,7 +20,7 @@ No front Angular4+ e Material na construção do CRM de atendimento.
 Tecnologias:
     angular4+, typescript, Java, sprint, .Net core, jenkins, GitLab, MongoDB
 
-# Full-stack Developer no Bananas Music Branding jun 2017 - mai 2018
+## Full-stack Developer no Bananas Music Branding jun 2017 - mai 2018
 Desenvolvimento do Player de Musica para PDV.
 Analise de requisitos junto aos clientes.
 Prototipação com Raspberry.
@@ -30,7 +30,7 @@ Tecnologias:
     CMS: PHP(cms com Laravel) e react.
 
 
-# Desenvolvedor FullStack no PipeRun dez de 2016 - jul 2017
+## Desenvolvedor FullStack no PipeRun dez de 2016 - jul 2017
 Projeto de CRM de vendas (pipeline + automação) com foco em negócios de tecnologia.
 Forte uso de PHP com laravel, VueJS, html e css (bootstrap + tema).
 
@@ -39,7 +39,7 @@ Tecnologias:
     Back-end: PHP, NodeJS, MySQL, MongoDB
 
 
-# Sócio e Desenvolvedor Backend na Simstim mar 2013 - dez 2016
+## Sócio e Desenvolvedor Backend na Simstim mar 2013 - dez 2016
 Além do papel de backend, tive a oportunidade de atuar como atendimento ao clientes. 
 Tanto para analise de requisitos quanto negociação, planejamento, modelagem do negócios.
 Atedemos demandas de agencias. Desenvolvimento de serviços e produtos normalmente para cliente final.
