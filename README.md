@@ -20,7 +20,7 @@ No front Angular4+ e Material na construção do CRM de atendimento.
 Tecnologias:
     angular4+, typescript, Java, sprint, .Net core, jenkins, GitLab, MongoDB
 
-## Full-stack Developer no Bananas Music Branding jun 2017 - mai 2018
+## Full-stack Developer no Bananas Music Branding - jun 2017 - mai 2018
 Desenvolvimento do Player de Musica para PDV.
 Analise de requisitos junto aos clientes.
 Prototipação com Raspberry.
