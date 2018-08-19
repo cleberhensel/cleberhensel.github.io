@@ -1,31 +1,31 @@
-Sou desenvolvedor javascript (front-end/back-end). Atualmente trabalho na CWI/Agibank atuando principalmente no front-end do CRM de Atendimento. E Também construindo micro-serviços em Java e .Net .
+### Cleber Hensel
+Fullstack Developer
 
-Trabalhei muitos anos em/com agências de publicidade. Normalmente como Backend PHP e NodeJS. Montando sites, eCommerces, campanhas, frameworks proprietários, CMS, APIs, Crawlers.
+Sou desenvolvedor javascript (front-end/back-end) e atualmente trabalho na CWI/Agibank. Atuo no front-end do CRM de atendimento e também construindo micro-serviços em Java e .Net.
 
-Tive empresa por quase 4 anos. Onde tive muita experiência de atendimento e relacionamento com o cliente. Consequentemente treinei minhas skills de analista de negócios/sistemas, gerente de projetos e "liderança" técnica.
-Também pude testar, aprender e evoluir outros conhecimentos como javascript/typescript e DevOps. Atendemos demandas diversas de campanhas publicitárias, lançamento de clipe e até um Crawler que se alimentava de dados abertos.
+Trabalhei muitos anos com agências de publicidade como Backend PHP e NodeJS, construindo sites, eCommerces, campanhas, frameworks proprietários, CMS, APIs e Crawlers.
 
-Tenho buscado me colocar como Dev Javascript. Mas não acredito que o nome realmente defina.
-Prefiro estar envolvido em projetos interessantes e que tenham algum sentido no mundo.
+Tive empresa por 4 anos, o que me proporcionou experiência de atendimento e relacionamento com o cliente, analista de negócios/sistemas, gerente de projetos e liderança técnica. Também pude testar, aprender e evoluir outros conhecimentos como javascript/typescript e DevOps. Atendemos demandas de campanhas digitais de cobertura nacional e desenvolvemos SPAs, Windows Android e Web Apps, e um Crawler que se alimentava de dados abertos.
+
+Tenho buscado me colocar como Dev Javascript, mas não acredito que o nome realmente defina.
+Prefiro estar envolvido em projetos interessantes que tenham algum sentido no mundo.
 
 Tenho estudado Spring, .Net core e Redux ;)
 
 ## Fullstack Javascript - Jun 2018 - Atual
 ### CWI Software - Outsourcing na Agibank
-Na Agibank estamos imersos na cultura organizacional do Spotify. Divididos em squads autonomas com capacidade para resolver todas as etapas do ciclo de vida do desenvolvimento: concepção, CI, CD, DevOps e suporte.
-Seguindo as cerimonias do scrum e gerenciando as etapas do desenvolvimento com o TFS, desde a estimativa durante a planning até retrospectiva.
-Utilizamos Java 8 com Spring e .Net core para os micro-serviços.
-No front Angular4+ e Material na construção do CRM de atendimento.
+Na Agibank estamos imersos na cultura organizacional do Spotify. Estamos divididos em squads autônomas, com capacidade para resolver todas as etapas do ciclo de vida do desenvolvimento de uma área do negócio: concepção, CI, CD, DevOps e suporte.
+Seguimos as cerimonias do scrum gerenciando as etapas do desenvolvimento com o TFS, desde a estimativa durante a planning até retrospectiva.
+Utilizamos Java 8 com Spring e .Net core para os micro-serviços. No front Angular4+ e Material na construção do CRM de atendimento.
 
 Tecnologias:
        
-       angular4+, typescript, Java, sprint, .Net core, jenkins, GitLab, MongoDB
+       angular4+, typescript, Java, Spring, .Net core, Jenkins, GitLab, MongoDB, Reddis, Rabbit, LiquiBase
 
 ## Fullstack Developer - jun 2017 - mai 2018
 ### Bananas Music Branding
-Desenvolvimento do Player de Musica para PDV.
-Analise de requisitos junto aos clientes.
-Prototipação com Raspberry.
+Desenvolvimento do Player de Música isomórfico para PDV. Criação da arquitetura base do player buscando atender diversas platarfomas a partir mesmo codebase. Desenvolvimento dos drives web e desktop (utilizando o Electron) e do Controle Remoto.
+Análise de requisitos, implantação e manutenção do produto nos clientes. Criação de um protótipo utilizando RaspberryPi.
 
 Tecnologias:
 
@@ -48,9 +48,7 @@ Tecnologias:
 
 ## Sócio e Desenvolvedor Backend - mar 2013 - dez 2016
 ### Simstim
-Além do papel de backend, tive a oportunidade de atuar como atendimento aos clientes. 
-Tanto para analise de requisitos quanto negociação, planejamento, modelagem de negócios.
-Atedemos demandas de agencias. Desenvolvimento de serviços e produtos normalmente para cliente final.
+Na SimStim, atuava como backend developer e era responsável pelas atividades de devOps. Tive a oportunidade de atuar junto aos clientes, tanto para análise de requisitos quanto negociação, planejamento e modelagem de negócios. Atendemos demandas de agências e desenvolvemos produtos e serviços para o cliente final.
 
 Tecnologias:
     
@@ -59,8 +57,7 @@ Tecnologias:
     Back-end: NodeJS, PHP, C#
 
 ## Outras
-Possuo várias experiencias (durante vários anos) anteriores. Principalmente como dev PHP e NodeJS em agencias de publicidade.
-Onde as demandas eram sites(HTML, CSS, jquery), CMS(wordpress e proprietários), campanhas curtas e sazionais.
-Também desenvolvi vários apps para facebook e integrações com redes sociais diversas(twitter, foursquare, google+ e etc...).
-Por alguns anos trabalhei com gestão de CPD em algumas empresas. Utilizando servers Linux e Win. Configurando redes, ad/samba, firewall e outros.
+Anteriormente, trabalhei como Fullstack PHP e NodeJS em agencias de publicidade com demandas como sites(HTML, CSS, jquery), CMS(wordpress e proprietários), campanhas curtas e sazonais.
+Também desenvolvi apps para Facebook e integrações com redes sociais diversas(twitter, foursquare, google+ e etc...).
+Por alguns anos, trabalhei com gestão de CPD em empresas utilizando servers Linux e Windows, configurando redes, ad/samba, firewall e outros.
 Também usando a AWS e seus diversos serviços como: EC2, RDS, S3, Route53 para serviços web.
