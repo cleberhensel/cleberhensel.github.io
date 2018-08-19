@@ -14,7 +14,7 @@ Tenho estudado Spring, .Net core e Redux ;)
 
 ## Fullstack Javascript - Jun 2018 - Atual
 ### CWI Software - Outsourcing na Agibank
-Na Agibank estamos imersos na cultura organizacional do Spotify. Estamos divididos em squads autônomas, com capacidade para resolver todas as etapas do ciclo de vida do desenvolvimento de uma área do negócio: concepção, CI, CD, DevOps e suporte.
+Na Agibank estamos imersos na cultura organizacional do Spotify. Divididos em squads autônomas, com capacidade para resolver todas as etapas do ciclo de vida do desenvolvimento de uma área do negócio: concepção, CI, CD, DevOps e suporte.
 Seguimos as cerimonias do scrum gerenciando as etapas do desenvolvimento com o TFS, desde a estimativa durante a planning até retrospectiva.
 Utilizamos Java 8 com Spring e .Net core para os micro-serviços. No front Angular4+ e Material na construção do CRM de atendimento.
 
