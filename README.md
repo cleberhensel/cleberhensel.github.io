@@ -1,5 +1,5 @@
 ### Cleber Hensel
-Fullstack Developer
+Developer Web
 
 Sou desenvolvedor javascript (front-end/back-end) e atualmente trabalho na CWI/Agibank. Atuo no front-end do CRM de atendimento e também construindo micro-serviços em Java e .Net.
 
@@ -12,7 +12,7 @@ Prefiro estar envolvido em projetos interessantes que tenham algum sentido no mu
 
 Tenho estudado Spring, .Net core e Redux ;)
 
-## Fullstack Javascript - Jun 2018 - Atual
+## Desenvolvedor Javascript - Jun 2018 - Atual
 ### CWI Software - Outsourcing na Agibank
 Na Agibank estamos imersos na cultura organizacional do Spotify. Divididos em squads autônomas, com capacidade para resolver todas as etapas do ciclo de vida do desenvolvimento de uma área do negócio: concepção, CI, CD, DevOps e suporte.
 Seguimos as cerimonias do scrum gerenciando as etapas do desenvolvimento com o TFS, desde a estimativa durante a planning até retrospectiva.
@@ -22,7 +22,7 @@ Tecnologias:
        
        angular4+, typescript, Java, Spring, .Net core, Jenkins, GitLab, MongoDB, Reddis, Rabbit, LiquiBase
 
-## Fullstack Developer - jun 2017 - mai 2018
+## Developer Web - jun 2017 - mai 2018
 ### Bananas Music Branding
 Desenvolvimento do Player de Música isomórfico para PDV. Criação da arquitetura base do player buscando atender diversas platarfomas a partir mesmo codebase. Desenvolvimento dos drives web e desktop (utilizando o Electron) e do Controle Remoto.
 Análise de requisitos, implantação e manutenção do produto nos clientes. Criação de um protótipo utilizando RaspberryPi.
@@ -34,7 +34,7 @@ Tecnologias:
     CMS: PHP(cms com Laravel) e react.
 
 
-## FullStack Developer - dez de 2016 - jul 2017
+## Developer Web - dez de 2016 - jul 2017
 ### PipeRun
 Projeto de CRM de vendas (pipeline + automação) com foco em negócios de tecnologia.
 Forte uso de PHP com laravel, VueJS, HTML e CSS (bootstrap + tema).
